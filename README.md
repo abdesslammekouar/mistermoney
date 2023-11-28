@@ -14,7 +14,7 @@ __Mister Money__ is
 > 
 
 <p align="center">
-  <img src="screenshot/mistermoney.png" width="900" title="Home Page">
+  <img src="mistermoney.png" width="900" title="Home Page">
 </p>
 
 ## Live Site 🕸️
