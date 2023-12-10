@@ -11,7 +11,8 @@ __Mister Money__ is
 
 > Do you want to know why i named my project `Mister Money`?🤷🏽‍♂️ Well....
 
-> 
+> A team of enthusiasts who came together to create a unique experience: “Mister Money”. The idea was simple but captivating - a 2D game where players would take on the role of Mister Money, an intrepid character in search of infinite wealth.
+
 
 <p align="center">
   <img src="mistermoney.png" width="900" title="Home Page">
@@ -20,32 +21,23 @@ __Mister Money__ is
 ## Live Site 🕸️
 __Website Link__: [VISIT](https://abdesslammekouar4.wixsite.com/mister-money)
 
-__You like it right ?!__ 😆 now connect with me on **[Linkedin](https://www.linkedin.com/in/amekouar/)**
-
-## Key Features ⭐
-
-- 
-- 
-- 
-- 
-- 
-- 
+__You like it right ?!__ 😆 now connect with me on **[Linkedin](https://www.linkedin.com/in/amekouar/)** or **[Mail](mailto:a.mekouar@outlook.com)**
 
 ## Technologies Used 💻
 
-- Unity3D
-- HTML/CSS/Javascript
-- C#
-- SQLite
+The development of "Mister Money" was a seamless fusion of cutting-edge technology and meticulous architecture, driven by the powerful combination of C# programming language and Unity Hub.
+
+C# served as the backbone of the project, providing a robust and versatile programming language for game development. Its object-oriented approach allowed for efficient code organization, fostering maintainability and scalability. Unity Hub, the integrated development environment, was the chosen platform for its comprehensive suite of tools tailored for game design.
+
 
 ## Getting Started 💁🏽
 ### Windows
-install setup.exe
+Clone Folder : Mister-Money_Exec
 
-launch mistermoney.exe
+launch Mister_Money_game.exe
 
 ### Android
-Download mistermoney.apk
+Download Mister_Money_game.apk
 
 In order to install apk file to the Android device, basically we need to do the following. 1. On Android device, navigate to 'Apps' > 'Settings' > 'Security', enable 'Unknown Sources', then tap 'OK' to agree to enable this setting. This will allow the installation of third party apps and standalone APKs.
 
