@@ -41,6 +41,12 @@ Download Mister_Money_game.apk
 
 In order to install apk file to the Android device, basically we need to do the following. 1. On Android device, navigate to 'Apps' > 'Settings' > 'Security', enable 'Unknown Sources', then tap 'OK' to agree to enable this setting. This will allow the installation of third party apps and standalone APKs.
 
+## Donation ❤️
+**Paypal:** [![Abdesslam Mekouar](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://paypal.me/amfpvdr?country.x=MA&locale.x=fr_XC)
+
+## For haters 😶‍🌫️
+Sorry, no time for that.
+
 ## Contributing 🧑🏽‍💼
 
 I welcome contributions to Mister Money! Please see my [contribution file](CONTRIBUTING.md) for more information on how to get started.
